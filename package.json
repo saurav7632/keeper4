@@ -15,6 +15,7 @@
     "concurrently": "^7.6.0",
     "dotenv": "^16.0.3",
     "express": "^4.17.1",
+    "mongoose": "^6.8.1",
     "express-session": "^1.17.3",
     "mongoose-findorcreate": "^3.0.0",
     "passport": "^0.6.0",
